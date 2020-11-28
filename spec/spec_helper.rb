@@ -2,7 +2,7 @@ require 'yaml'
 
 RSpec.configure do |config|
 
-  def 
+  def bash_hash
   end
 
 end
